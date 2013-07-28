@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/59/trunk/ImageDencoder/src/com/ctyeung/Targa
+END
+TGADecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/67/trunk/ImageDencoder/src/com/ctyeung/Targa/TGADecoder.as
+END
+TGATypeEnum.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/67/trunk/ImageDencoder/src/com/ctyeung/Targa/TGATypeEnum.as
+END
+TGAHeader.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/67/trunk/ImageDencoder/src/com/ctyeung/Targa/TGAHeader.as
+END
+TGAImageData.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/67/trunk/ImageDencoder/src/com/ctyeung/Targa/TGAImageData.as
+END
+TGAPalette.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/67/trunk/ImageDencoder/src/com/ctyeung/Targa/TGAPalette.as
+END
+TGAEncoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/67/trunk/ImageDencoder/src/com/ctyeung/Targa/TGAEncoder.as
+END

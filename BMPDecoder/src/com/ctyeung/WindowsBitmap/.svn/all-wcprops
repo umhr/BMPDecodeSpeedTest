@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13/trunk/ImageDencoder/src/com/ctyeung/WindowsBitmap
+END
+WinBmpDecoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13/trunk/ImageDencoder/src/com/ctyeung/WindowsBitmap/WinBmpDecoder.as
+END
+WinBmpImg.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13/trunk/ImageDencoder/src/com/ctyeung/WindowsBitmap/WinBmpImg.as
+END
+WinBmpPal.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13/trunk/ImageDencoder/src/com/ctyeung/WindowsBitmap/WinBmpPal.as
+END
+WinBmpFileHdr.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/13/trunk/ImageDencoder/src/com/ctyeung/WindowsBitmap/WinBmpFileHdr.as
+END
+WinBmpHdr.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13/trunk/ImageDencoder/src/com/ctyeung/WindowsBitmap/WinBmpHdr.as
+END
+WinBmpEncoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/66/trunk/ImageDencoder/src/com/ctyeung/WindowsBitmap/WinBmpEncoder.as
+END

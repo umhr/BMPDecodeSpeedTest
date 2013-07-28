@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/49/trunk/TIFF6
+END
+ImageInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/51/trunk/TIFF6/ImageInfo.as
+END
+DirEntry.as
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/51/trunk/TIFF6/DirEntry.as
+END
+Compression.as
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/58/trunk/TIFF6/Compression.as
+END
+CmpZIP.as
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/TIFF6/CmpZIP.as
+END
+IFD.as
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/52/trunk/TIFF6/IFD.as
+END
+Image.as
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/58/trunk/TIFF6/Image.as
+END
+TIFF6Decoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/52/trunk/TIFF6/TIFF6Decoder.as
+END
+Fields.as
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/TIFF6/Fields.as
+END
+TIFFUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/51/trunk/TIFF6/TIFFUtil.as
+END
+Header.as
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/52/trunk/TIFF6/Header.as
+END
+CmpBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/58/trunk/TIFF6/CmpBase.as
+END
+CmpLZW.as
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/57/trunk/TIFF6/CmpLZW.as
+END
